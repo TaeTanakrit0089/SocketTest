@@ -1,5 +1,5 @@
-import java.io.*;
-import java.net.*;
+import java.io.DataOutputStream;
+import java.net.Socket;
 import java.util.Scanner;
 
 public class MyClient {
